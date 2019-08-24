@@ -1,2 +1,2 @@
 # ListadeProjetos
-Desafio 1 da Bootcamp RocketSeat: Lista de Projetos com Node Express
+Priemiro desafio do curso Bootcamp da RocketSeat craindo um CRUD em Node Express em um simples Array
